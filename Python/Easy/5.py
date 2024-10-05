@@ -17,8 +17,7 @@ if x == 5:
 
 if x > 10:
     print("x is greater")
-else x ==10:
+if x ==10:
     print("x is equal")
 
 def my_function(): 
-
